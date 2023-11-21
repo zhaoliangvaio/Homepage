@@ -1,26 +1,21 @@
-SADL package Version 1.0 (Nov, 2023) (Matlab code)
+CAFH package Version 1.0 (June, 2018) (Matlab code)
 
 ------------------------------------
 
-Copyright (c) 2023 Liang Zhao
-Emory University
-liang.zhao@gmu.edu
+Copyright (c) 2018 Liang Zhao
+George Mason University
+lzhao9@gmu.edu
 
 Please cite the following paper in any work that uses this material:
 
-Zhao, Liang, Olga Gkountouna, and Dieter Pfoser. "Spatial auto-regressive dependency 
-interpretable learning based on spatial topological constraints." ACM Transactions on 
-Spatial Algorithms and Systems (TSAS) 5, no. 3 (2019): 1-28.
+Liang Zhao, Amir Alipour-Fanid, Martin Slawski and Kai Zeng. Prediction-time Efficient Classification Using Feature Computational Dependencies. in Proceedings of the 24st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug 2018, to appear.
 
-@article{zhao2019spatial,
-  title={Spatial auto-regressive dependency interpretable learning based on spatial topological constraints},
-  author={Zhao, Liang and Gkountouna, Olga and Pfoser, Dieter},
-  journal={ACM Transactions on Spatial Algorithms and Systems (TSAS)},
-  volume={5},
-  number={3},
-  pages={1--28},
-  year={2019},
-  publisher={ACM New York, NY, USA}
+@inproceedings{zhao2018prediction,
+  title={Prediction-time Efficient Classification Using Feature Computational Dependencies},
+  author={Zhao, Liang and Alipour-Fanid, Amir and Slawski, Martin and Zeng, Kai},
+  booktitle={Proceedings of the 24nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  year={2018},
+  organization={ACM}
 }
 
 Together with this README file are the codes and data.
@@ -28,7 +23,7 @@ Together with this README file are the codes and data.
 ---------------
 ENVIRONMENT: 
 ---------------
-Matlab 2020 and later (previous version might also work)
+Matlab 2011-2016 (previous version might also work)
 
 
 ---------------
